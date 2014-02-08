@@ -1,4 +1,4 @@
-CodeMirror.defineMode "coffeescript2", (conf)->
+CodeMirror.defineMode "coffeescript", (conf)->
   ERRORCLASS = "error"
 
   wordRegexp = (words) ->
